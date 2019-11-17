@@ -1,0 +1,98 @@
+<!Doctype html>
+<html class="Page">
+     <head>
+     	<meta charset="utf-8" />
+     	<title> L'integralité de Hans</title>
+     	<link href="style.css" rel="stylesheet" type="text/css" />
+     </head>
+     <body>
+		<p class="identification">
+     		<a href=""><img src="hans_mini.JPG" alt=" Ma photo" class="flottant" /></a>
+			Nom:MAPAGA MAPAGA <br />
+     		Prenom:Hans Sylvère <br />
+     		Telephone:077616330<br />
+     		Adresse e-mail:hansmapagagervais@gmail.com<br />
+     		Quartier:Angondje, Chateaux <br />
+     		Ville de résidence: Libreville <br />
+			</br>
+			</br>
+     	</p>
+     	<h1>Education</h1>
+		<div class="Etablissements">
+     	<h2>Etablissement(2016-2019)</h2>
+     
+			<ul>
+				<li>Nom de l'Etablissement: Ecole Polytechnique de Masuku</li>
+				<li>Diplome Obtenu:DUT DIES(Diagnostic et Intervention sur Equipements et Systemes) </li>
+				<li>Année d'Obtention: 2018</li>
+			</ul>
+     	
+     	<h2>Etablissement(2013-2016)</h2>
+     
+			<ul>
+				<li>Nom de l'Etablissement: Lycée Technique Jean-Fidèle Otando</li>
+				<li>Diplome Obtenu: Bac MI(Maintenance Industrielle)</li>
+				<li>Année D'Obtention:2016</li>
+			</ul>
+		</div>
+     	<h1>Expérience Professionelle</h1>
+		<div class="Structures">
+     	<h2>Structure 1</h2>
+     	
+			<ul>
+				<li>Nom de la struture: PERFORM HIGH TECH</li>
+				<li>Fonction Occupée:Electricien Stagiaire </li>
+				<li>Periode: 3 mois</li>
+			</ul>
+     	<h2>Structure 2</h2>
+			<ul>
+				<li>Nom de la structure: Atelier Genie Mbina </li>
+				<li>Fonction Occupée: Aide Mecanicien</li>
+				<li>Periode: 3 mois </li>
+			</ul>
+     	</div>
+     	<h1>Biographie</h1>
+		<p>
+		Salut !<br/>
+		je m'appelle MAPAGA MAPAGA Hans Sylvère, je suis gabonais.</br> 
+		j'ai 25 ans et je viens de finir une licence en gestion de la production industrielle.</br>
+		je suis passioné de technologie industrielle.</br>
+		je fais du footing en moyenne une fois par semaine et le reste du temps je me cultive sur internet.</br>
+		je suis de nature tres drole et toujours dans la bonne humeur meme quand je suis serieux, pour moi,il n y a pas </br>
+		de plus grand amour que de se donner pour ce qu'on aime...
+		</p> 
+		<video src="Ma vidéo.MP4" controls width="1000px" height="500">
+		</video>
+		
+     	<h1>Réseaux sociaux </h1>
+		<div class=" liens">
+			<ul>Liens les plus utilisés: <br/> 
+     								  <a href="https://www.facebook.com">Facebook</a> <br/>
+     								  <a href="https://twitter.com"> Twitter</a> <br/>
+     								  <a href="https://www.youtube.com/channel/UCiO9KVCTmSRmI8V4dV8f4ZA">Automatisme Industriel</a> <br/>
+     								  <a href="https://www.facebook.com/nerispastrop/">Gaboma Punchline</a> <br>
+     								  <a href="https://www.canalplus-afrique.com/tg/mycanal">MyCanal</a> <br>
+			</ul>
+		</div>
+     	<h1>Centre d'intéret </h1>
+		<div class= "Loisirs">
+			<ul>
+				<li>Faire du footing</li>
+				<li>Jouer au Football</li>
+				<li>M'informer sur tous les sujets</li>
+			</ul>
+     	</div>
+     	<h1>Multimedia</h1>
+		<div class="musique">
+     	<h2>Music Favorite</h2>
+     	   <audio src="youssoupha_le_message_audio_officiel_aac_83671.M4A" controls >
+     	   </audio>
+		<p class="Thomas">
+     		<a href=""><img src="Thomas Sankara.JPG" alt="photo de Thomas Sankara" /></a></br>
+			Thomas Sankara
+     	</p>
+		 
+		</div>
+     </body>
+
+</html>
